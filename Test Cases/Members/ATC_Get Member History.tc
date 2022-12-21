@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC_Get Member History</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98867fe2-8cde-4cf5-beb7-7f4821c427f6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e93bd6f2-beab-4cb9-b923-fe28c778aa7e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.AdminToken</defaultValue>
+      <description></description>
+      <id>e93bd6f2-beab-4cb9-b923-fe28c778aa7e</id>
+      <masked>false</masked>
+      <name>Admin</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,43 @@
+{"testCaseName":"Test Cases/Users/ATC_Create Admin","testCaseId":"Test Cases/Users/ATC_Create Admin","iterationVariableName":""}
+{"testCaseName":"Test Cases/Users/ATC_Get All Admin","testCaseId":"Test Cases/Users/ATC_Get All Admin","iterationVariableName":""}
+{"testCaseName":"Test Cases/Users/ATC_Get All User","testCaseId":"Test Cases/Users/ATC_Get All User","iterationVariableName":""}
+{"testCaseName":"Test Cases/Users/ATC_Get User","testCaseId":"Test Cases/Users/ATC_Get User","iterationVariableName":""}
+{"testCaseName":"Test Cases/Users/ATC_Register","testCaseId":"Test Cases/Users/ATC_Register","iterationVariableName":""}
+{"testCaseName":"Test Cases/Members/ATC_Create new members","testCaseId":"Test Cases/Members/ATC_Create new members","iterationVariableName":""}
+{"testCaseName":"Test Cases/Members/ATC_Get Member History","testCaseId":"Test Cases/Members/ATC_Get Member History","iterationVariableName":""}
+{"testCaseName":"Test Cases/Members/ATC_Get member or all members","testCaseId":"Test Cases/Members/ATC_Get member or all members","iterationVariableName":""}
+{"testCaseName":"Test Cases/Members/ATC_Get single or details member","testCaseId":"Test Cases/Members/ATC_Get single or details member","iterationVariableName":""}
+{"testCaseName":"Test Cases/Members/ATC_Set Status Member","testCaseId":"Test Cases/Members/ATC_Set Status Member","iterationVariableName":""}
+{"testCaseName":"Test Cases/Members/ATC_Update Member","testCaseId":"Test Cases/Members/ATC_Update Member","iterationVariableName":""}
+{"testCaseName":"Test Cases/Members/ATC_Delete members","testCaseId":"Test Cases/Members/ATC_Delete members","iterationVariableName":""}
+{"testCaseName":"Test Cases/Member Type/ATC_Create Member Type","testCaseId":"Test Cases/Member Type/ATC_Create Member Type","iterationVariableName":""}
+{"testCaseName":"Test Cases/Member Type/ATC_Get All Member Types","testCaseId":"Test Cases/Member Type/ATC_Get All Member Types","iterationVariableName":""}
+{"testCaseName":"Test Cases/Member Type/ATC_Get Single Member Type","testCaseId":"Test Cases/Member Type/ATC_Get Single Member Type","iterationVariableName":""}
+{"testCaseName":"Test Cases/Member Type/ATC_Update Member Type","testCaseId":"Test Cases/Member Type/ATC_Update Member Type","iterationVariableName":""}
+{"testCaseName":"Test Cases/Member Type/ATC_Delete Member Type","testCaseId":"Test Cases/Member Type/ATC_Delete Member Type","iterationVariableName":""}
+{"testCaseName":"Test Cases/Payment Method/ATC_Create Payment Method","testCaseId":"Test Cases/Payment Method/ATC_Create Payment Method","iterationVariableName":""}
+{"testCaseName":"Test Cases/Payment Method/ATC_Get All Payment Method","testCaseId":"Test Cases/Payment Method/ATC_Get All Payment Method","iterationVariableName":""}
+{"testCaseName":"Test Cases/Payment Method/ATC_Get Single Payment Method","testCaseId":"Test Cases/Payment Method/ATC_Get Single Payment Method","iterationVariableName":""}
+{"testCaseName":"Test Cases/Payment Method/ATC_Update Payment Method","testCaseId":"Test Cases/Payment Method/ATC_Update Payment Method","iterationVariableName":""}
+{"testCaseName":"Test Cases/Payment Method/ATC_Delete Payment Method","testCaseId":"Test Cases/Payment Method/ATC_Delete Payment Method","iterationVariableName":""}
+{"testCaseName":"Test Cases/Offline class/TC_Create offline class","testCaseId":"Test Cases/Offline class/TC_Create offline class","iterationVariableName":""}
+{"testCaseName":"Test Cases/Offline class/TC_Get all offline classes","testCaseId":"Test Cases/Offline class/TC_Get all offline classes","iterationVariableName":""}
+{"testCaseName":"Test Cases/Offline class/TC_Get single offline class","testCaseId":"Test Cases/Offline class/TC_Get single offline class","iterationVariableName":""}
+{"testCaseName":"Test Cases/Offline class/TC_Update offline class","testCaseId":"Test Cases/Offline class/TC_Update offline class","iterationVariableName":""}
+{"testCaseName":"Test Cases/Offline class/TC_Delete offline class","testCaseId":"Test Cases/Offline class/TC_Delete offline class","iterationVariableName":""}
+{"testCaseName":"Test Cases/Offline categories/TC_Create offline class categories","testCaseId":"Test Cases/Offline categories/TC_Create offline class categories","iterationVariableName":""}
+{"testCaseName":"Test Cases/Offline categories/TC_Get all offline class categories","testCaseId":"Test Cases/Offline categories/TC_Get all offline class categories","iterationVariableName":""}
+{"testCaseName":"Test Cases/Offline categories/TC_Get single offline class categories","testCaseId":"Test Cases/Offline categories/TC_Get single offline class categories","iterationVariableName":""}
+{"testCaseName":"Test Cases/Offline categories/TC_Update offline class categories","testCaseId":"Test Cases/Offline categories/TC_Update offline class categories","iterationVariableName":""}
+{"testCaseName":"Test Cases/Offline categories/TC_Delete offline class categories","testCaseId":"Test Cases/Offline categories/TC_Delete offline class categories","iterationVariableName":""}
+{"testCaseName":"Test Cases/Offline Class Booking/ATC_Create Offline Class Booking","testCaseId":"Test Cases/Offline Class Booking/ATC_Create Offline Class Booking","iterationVariableName":""}
+{"testCaseName":"Test Cases/Offline Class Booking/ATC_Get All Offline Class Bookings","testCaseId":"Test Cases/Offline Class Booking/ATC_Get All Offline Class Bookings","iterationVariableName":""}
+{"testCaseName":"Test Cases/Offline Class Booking/ATC_Get Single Offline Class Booking","testCaseId":"Test Cases/Offline Class Booking/ATC_Get Single Offline Class Booking","iterationVariableName":""}
+{"testCaseName":"Test Cases/Offline Class Booking/ATC_Set Offline Class Booking Status","testCaseId":"Test Cases/Offline Class Booking/ATC_Set Offline Class Booking Status","iterationVariableName":""}
+{"testCaseName":"Test Cases/Offline Class Booking/ATC_Update Offline Class Booking","testCaseId":"Test Cases/Offline Class Booking/ATC_Update Offline Class Booking","iterationVariableName":""}
+{"testCaseName":"Test Cases/Offline Class Booking/ATC_Delete Offline Class Booking","testCaseId":"Test Cases/Offline Class Booking/ATC_Delete Offline Class Booking","iterationVariableName":""}
+{"testCaseName":"Test Cases/Users/ATC_Create Admin","testCaseId":"Test Cases/Users/ATC_Create Admin","iterationVariableName":""}
+{"testCaseName":"Test Cases/Users/ATC_Get All Admin","testCaseId":"Test Cases/Users/ATC_Get All Admin","iterationVariableName":""}
+{"testCaseName":"Test Cases/Users/ATC_Get All User","testCaseId":"Test Cases/Users/ATC_Get All User","iterationVariableName":""}
+{"testCaseName":"Test Cases/Users/ATC_Get User","testCaseId":"Test Cases/Users/ATC_Get User","iterationVariableName":""}
+{"testCaseName":"Test Cases/Users/ATC_Register","testCaseId":"Test Cases/Users/ATC_Register","iterationVariableName":""}

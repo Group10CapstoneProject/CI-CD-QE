@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC_Delete Member Type</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2209054-cb52-40a1-809f-619751f77966</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7f329585-3d3f-4597-ae6f-e1a0526b212c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.AdminToken</defaultValue>
+      <description></description>
+      <id>7f329585-3d3f-4597-ae6f-e1a0526b212c</id>
+      <masked>false</masked>
+      <name>Admin</name>
+   </variable>
+</TestCaseEntity>

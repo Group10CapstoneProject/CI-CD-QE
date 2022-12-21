@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC_Get All Payment Method</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0d742515-bccb-4d2f-9ee5-b49590d2ac9a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b4935c6c-3a02-4288-b6f8-6b66e1ad120b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.AdminToken</defaultValue>
+      <description></description>
+      <id>b4935c6c-3a02-4288-b6f8-6b66e1ad120b</id>
+      <masked>false</masked>
+      <name>Admin</name>
+   </variable>
+</TestCaseEntity>
